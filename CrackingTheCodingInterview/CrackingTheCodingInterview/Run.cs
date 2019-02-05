@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace CrackingTheCodingInterview
 {
-    class Program
+    class Run
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
